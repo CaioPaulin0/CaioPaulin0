@@ -1,16 +1,17 @@
-### Hi there 👋
+<h3>👋 Hi there!, I’m Caio paulino from Brazil, I'm developer front-end.</h3>
 
-<!--
-**CaioPaulin0/CaioPaulin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>My main skills:</h4>
+🟠 Html</br>  
+🔵 Css </br> 
+🟡 Javascript
 
-Here are some ideas to get you started:
+<h4>I am learning about:</h4>
+⚫ Reactjs
+</br> 
+🟢 Nodejs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<h3> The power of computing will still take us to uncharted places </h3>
+Passionate about the hardware / software technology area, In my free time I like study about astronomy(🌌),to workout(💪),to listen to music(🎵) and play instruments(🎸)
+
+Contact <a href="https://www.linkedin.com/in/caiopaulin0/">Linkedin</a> or <a href="mailto:caiopaulinoPE@hotmail.com">Email</a>
