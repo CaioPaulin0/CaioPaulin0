@@ -7,8 +7,6 @@
 
 <h4>I am learning about:</h4>
 ⚫ Reactjs
-</br> 
-🟢 Nodejs
 
 ##
 <h3> The power of computing will still take us to uncharted places </h3>
