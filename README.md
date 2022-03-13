@@ -6,7 +6,7 @@
 🟢 JAVASCRIPT
 
 <h3>📚 I am learning about:</h3>
-🟠 REACTJS</br>
+🟠 REACT.JS</br>
 🟠 SCSS
 
 ##
