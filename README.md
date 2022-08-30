@@ -7,7 +7,7 @@
 
 <h3>📚 I am learning about:</h3>
 🟠 REACT.JS</br>
-🟠 SCSS
+🟠 SCSS</br>
 🟠 NODE.JS
 
 
