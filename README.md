@@ -8,6 +8,8 @@
 <h3>📚 I am learning about:</h3>
 🟠 REACT.JS</br>
 🟠 SCSS
+🟠 NODE.JS
+
 
 ##
 <h3> The power of computing will still take us to uncharted places </h3>
