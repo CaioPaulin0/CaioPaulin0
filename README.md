@@ -11,17 +11,46 @@ I am currently delving into Java, to have a deeper knowledge and become a FullSt
   aling= "left"
 alt= "CSS"
 title="CSS"
-width= "30px"
+width= "50px"
 style= "padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+<img
+  aling= "left"
+alt= "CSS"
+title="CSS"
+width= "50px"
+style= "padding-right: 10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+<img
+  aling= "left"
+alt= "CSS"
+title="CSS"
+width= "50px"
+style= "padding-right: 10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img
+  aling= "left"
+alt= "CSS"
+title="CSS"
+width= "50px"
+style= "padding-right: 10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img
+  aling= "left"
+alt= "CSS"
+title="CSS"
+width= "50px"
+style= "padding-right: 10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img
+  aling= "left"
+alt= "CSS"
+title="CSS"
+width= "50px"
+style= "padding-right: 10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+<img
+  aling= "left"
+alt= "CSS"
+title="CSS"
+width= "50px"
+style= "padding-right: 10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
+
 
 
 </div>
