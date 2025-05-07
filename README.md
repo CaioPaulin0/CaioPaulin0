@@ -54,8 +54,8 @@ style= "padding-right: 10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@l
 
 
 </div>
-##
-<h3> The power of computing will still take us to uncharted places </h3>
+
+<h2> The power of computing will still take us to uncharted places </h2>
 Passionate about the hardware / software technology area, In my free time I like study about astronomy🌌, workout💪, listen to music🎵 and read📚.
 
 
