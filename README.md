@@ -1,6 +1,6 @@
 ## 👋 Hi there!, I’m Caio paulino from Brazil, I'm developer FullStack 👨🏻‍💻.
 
-I have experience with Full-Stack Java, with a focus on Spring Boot. I also have experience in Angular with TypeScript, focusing on creating interfaces, tools, and optimization for SEO. I have knowledge SQL and MySQL database modeling.
+I have experience with Full-Stack Java Spring Boot. I also have experience in Angular, focusing on creating interfaces, tools, and optimization for SEO. I have knowledge SQL and MySQL database modeling.
 
 <h2>Tech Stack</h2>
 <div>
