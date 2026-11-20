@@ -1,10 +1,10 @@
 <img
-  src="https://i.ibb.co/jZhkBvfk/Banner-Neon-de-Desenvolvedor-Fullstack.png"
+  src="https://i.ibb.co/pvxTH5wj/Banner-de-Desenvolvedor-em-Azul-Neon.png"
   />
 
-## 👋 Hi there!, I’m Caio paulino from Brazil, I'm developer FullStack 👨🏻‍💻.
+## 👋 Hi there!, I’m Caio paulino from Brazil, I'm Software Engineer 👨🏻‍💻.
 
-I'm a Full Stack Developer from Brazil - Recife 🏖, passionate about building scalable applications, designing efficient backend architectures, and developing modern web interfaces.
+I'm a Software Engineer from Brazil - Recife 🏖, passionate about building scalable applications, designing efficient backend architectures, and developing modern web interfaces.
 
 I have professional experience in web development and hands-on experience building full-stack applications using Java, Spring Boot, Angular, TypeScript, MySQL, Docker and Clouding Computer - AWS.
 
